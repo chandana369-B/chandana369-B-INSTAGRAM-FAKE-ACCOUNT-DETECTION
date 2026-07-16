@@ -4,13 +4,13 @@
 1. Create & activate venv:
    - macOS/Linux:
      
-      python -m venv .venv
-      source .venv/bin/activate
+     python -m venv .venv
+     source .venv/bin/activate
      
    - Windows PowerShell:
      
-      python -m venv .venv
-      .venv\Scripts\activate
+     python -m venv .venv
+     .venv\Scripts\activate
      
 
 2. Install dependencies:
@@ -18,13 +18,13 @@
 3. Optionally, to allow private-account access set env vars:
 - macOS/Linux:
   
-   export INSTA_USER="your_instagram_username"
-   export INSTA_PASS="your_instagram_password"
+  export INSTA_USER="your_instagram_username"
+  export INSTA_PASS="your_instagram_password"
   
 - Windows PowerShell:
   
-   $env:INSTA_USER="your_instagram_username"
-   $env:INSTA_PASS="your_instagram_password"
+  $env:INSTA_USER="your_instagram_username"
+  $env:INSTA_PASS="your_instagram_password"
   
 
 4. Run the app:

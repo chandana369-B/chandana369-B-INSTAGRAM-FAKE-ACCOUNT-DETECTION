@@ -1,0 +1,13 @@
+{
+    // Explorer Settings
+    "explorer.sortOrder": "default",
+    "explorer.sortOrderFoldersOnTop": true,
+
+    // Optional: Makes VS Code open files in the same order every time
+    "workbench.editor.openSideBySideDirection": "right",
+    "workbench.startupEditor": "welcomePage",
+
+    // Optional: Makes files explorer always show icons
+    "explorer.decorations.colors": true,
+    "explorer.decorations.badges": true
+}
